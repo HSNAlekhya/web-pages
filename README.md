@@ -1,9 +1,11 @@
 
 What is a webpage?
 
-      A web page is a single, accessible digital document on the internet, part of a larger website, containing text, images, videos, and links, 
-      viewable in a browser and built with HTML, CSS, and JavaScript for structure, style, and interactivity. Each page has a unique URL for direct access, 
-      offering static (fixed) or dynamic (changing) content, serving as the primary way information is presented online, from simple blogs to complex applications. 
+      A web page is a single, accessible digital document on the internet, part of a larger website, 
+      containing text, images, videos, and links, viewable in a browser and built with HTML, CSS, 
+      and JavaScript for structure, style, and interactivity. 
+      Each page has a unique URL for direct access, offering static (fixed) or dynamic (changing) content, 
+      serving as the primary way information is presented online, from simple blogs to complex applications. 
       
 Key Characteristics
 
@@ -35,7 +37,8 @@ Types of Web Pages
     
     Dynamic Pages: 
     
-      Content changes based on user actions, time, or other factors, often using server-side languages and databases (e.g., social media feeds, e-commerce sites). 
+      Content changes based on user actions, time, or other factors, often using server-side languages and 
+      databases (e.g., social media feeds, e-commerce sites). 
       
 Web Page vs. Website
 
